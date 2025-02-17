@@ -21,7 +21,7 @@ import pandas as pd
 from datetime import timedelta, datetime
 
 # caminho do arquivo local
-caminho = r'C:\Users\konop\Documents\DataLP\Engenharia\veiculos_em_manutencao.xlsx'
+caminho = r'veiculos_em_manutencao.xlsx'
 
 # montando dataframe
 df = pd.read_excel(caminho, sheet_name=0)
