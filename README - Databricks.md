@@ -16,6 +16,6 @@ Databricks
 Python
 
 ## Como Executar
-1. Importar o notebook para um ambiente Databricks
+1. baixar o arquivo do notebook Teste - Locadora de Veículos.dbc e importar para um ambiente Databricks
 2. Configurar o caminho do arquivo no catálogo
 3. Executar as células em sequência
